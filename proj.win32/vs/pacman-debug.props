@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
-    <EngineDir>E:\Atom Engine v1.4 (Pac-man) (Unfinished Build)\</EngineDir>
-    <EngineSrcDir>E:\Atom Engine v1.4 (Pac-man) (Unfinished Build)\atom\</EngineSrcDir>
-    <EngineGLLibPath>E:\Atom Engine v1.4 (Pac-man) (Unfinished Build)\gl\lib\</EngineGLLibPath>
-    <EngineGLIncludePath>E:\Atom Engine v1.4 (Pac-man) (Unfinished Build)\gl\include\</EngineGLIncludePath>
+    <EngineDir>$(ProjectDir)..\</EngineDir>
+    <EngineSrcDir>$(EngineDir)atom\</EngineSrcDir>
+    <EngineGLLibPath>$(EngineDir)gl\lib\</EngineGLLibPath>
+    <EngineGLIncludePath>$(EngineDir)gl\include\</EngineGLIncludePath>
   </PropertyGroup>
   <PropertyGroup />
   <ItemDefinitionGroup>
