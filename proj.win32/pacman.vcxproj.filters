@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Atom Engine">
+      <UniqueIdentifier>{a0cb89d2-2e43-4abc-88a6-c922e6463bc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Vector Library">
+      <UniqueIdentifier>{e3695fe9-c0d5-45bc-8ca9-db50e49825e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\OpenGL Library">
+      <UniqueIdentifier>{53db99da-12f5-487a-bd9c-78bfd6bc8c46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\OpenGL Library">
+      <UniqueIdentifier>{56ce5214-8736-475d-b9e3-e372413e6278}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Vector Library">
+      <UniqueIdentifier>{8a341079-1f34-42f2-8825-58b933ce485f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Matrix Library">
+      <UniqueIdentifier>{0bd27a8e-a018-48b7-bd0f-e5392533f5ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Matrix Library">
+      <UniqueIdentifier>{e856b9c1-f08b-48b8-bd03-a9aa71c41451}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ModelLoad Library">
+      <UniqueIdentifier>{0e913b82-9558-409c-9d60-23ab6bc4dc8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\ModelLoad Library">
+      <UniqueIdentifier>{2556d68e-6a3d-425e-a572-46f04d60fef4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Basic Transformation Library">
+      <UniqueIdentifier>{6478603b-d75e-456b-826b-3ee857c6de71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Basic Transformation Library">
+      <UniqueIdentifier>{8e6e32b6-6165-4599-b32e-b6c4c5133ddd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Math Library">
+      <UniqueIdentifier>{effef73f-7be6-404d-a323-a2c5deeb5914}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Math Library">
+      <UniqueIdentifier>{4e2a503f-441f-4d27-aa6c-0e9f72af334f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Basic Primitives Library">
+      <UniqueIdentifier>{3e2d41fa-2bb3-403f-96b5-2ada457a5e5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Basic Primitives Library">
+      <UniqueIdentifier>{b16049aa-0fc4-419e-aa60-617e6110c98f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Collision Library">
+      <UniqueIdentifier>{15a9f419-a7b2-4599-90a6-b13efc7c4a5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Collision Library">
+      <UniqueIdentifier>{237d9470-6c90-4ea7-ad7a-fdf22ad8c2d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Keyboard Library">
+      <UniqueIdentifier>{19cfad56-e6be-4dbc-8923-e260f465afb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Keyboard Library">
+      <UniqueIdentifier>{32fe8508-dd30-4944-aaeb-006e3ec823e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Camera Library">
+      <UniqueIdentifier>{9359b4f1-006b-484a-bb9d-cede3527a531}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Camera Library">
+      <UniqueIdentifier>{a814881e-66b6-4de8-9ccd-2dbe811d0c8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Time Library">
+      <UniqueIdentifier>{c24ac1e4-0b1e-44e3-9dd7-2b0fb0d90cd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Time Library">
+      <UniqueIdentifier>{694fb2d9-409f-420b-a8d1-c41dbd8aee88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Text Library">
+      <UniqueIdentifier>{405cdb2e-2e28-4cef-8811-f6b61a657557}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Text Library">
+      <UniqueIdentifier>{9c48fbf1-6a0a-40ae-8862-cceb398bff84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sound Library">
+      <UniqueIdentifier>{64906501-b0b2-4fe2-8c28-2a21c5a13010}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sound Library">
+      <UniqueIdentifier>{9e7711cd-a9af-4172-a069-923724422567}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Atom Engine">
+      <UniqueIdentifier>{3d695c89-e05f-4856-a51c-d40c5aa69daa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\atom\AtomEngine.cpp">
+      <Filter>Resource Files\Atom Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\BasicPrimitives.cpp">
+      <Filter>Resource Files\Basic Primitives Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\BasicTransformation.cpp">
+      <Filter>Resource Files\Basic Transformation Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\CollisionDetection.cpp">
+      <Filter>Resource Files\Collision Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\Camera.cpp">
+      <Filter>Resource Files\Camera Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\Keyboard.cpp">
+      <Filter>Resource Files\Keyboard Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\Math.cpp">
+      <Filter>Resource Files\Math Library</Filter>
+    </ClCompile>
+    <ClCompile Include="win32\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\Matrix4.cpp">
+      <Filter>Resource Files\Matrix Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\ModelLoader.cpp">
+      <Filter>Resource Files\ModelLoad Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\OpenGL.cpp">
+      <Filter>Resource Files\OpenGL Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\Sound.cpp">
+      <Filter>Resource Files\Sound Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\Text.cpp">
+      <Filter>Resource Files\Text Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\Time.cpp">
+      <Filter>Resource Files\Time Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\atom\Vector3.cpp">
+      <Filter>Resource Files\Vector Library</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\atom\AtomEngine.h">
+      <Filter>Header Files\Atom Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\BasicPrimitives.h">
+      <Filter>Header Files\Basic Primitives Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\BasicTransfromation.h">
+      <Filter>Header Files\Basic Transformation Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\Camera.h">
+      <Filter>Header Files\Camera Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\CollisionDetection.h">
+      <Filter>Header Files\Collision Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\Keyboard.h">
+      <Filter>Header Files\Keyboard Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\Math.h">
+      <Filter>Header Files\Math Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\Matrix4.h">
+      <Filter>Header Files\Matrix Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\ModelData.h">
+      <Filter>Header Files\ModelLoad Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\ModelLoader.h">
+      <Filter>Header Files\ModelLoad Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\ModelParser.h">
+      <Filter>Header Files\ModelLoad Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\OpenGL.h">
+      <Filter>Header Files\OpenGL Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\Sound.h">
+      <Filter>Header Files\Sound Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\Text.h">
+      <Filter>Header Files\Text Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\Time.h">
+      <Filter>Header Files\Time Library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\atom\Vector3.h">
+      <Filter>Header Files\Vector Library</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
